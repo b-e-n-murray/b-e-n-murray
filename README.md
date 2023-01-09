@@ -59,4 +59,4 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
 ## Contact Me
 
 ### Email: benmurray573@gmail.com
-### LinkedIn : <a href= "https://www.linkedin.com/in/ben-murray-76a452210/ </a>
+### LinkedIn : https://www.linkedin.com/in/ben-murray-76a452210/
