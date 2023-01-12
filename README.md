@@ -32,7 +32,7 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
   <tbody align="center">
     <tr>
       <td><b>Codewars Katas</b></a></td>
-      <td><a href="https://github.com/b-e-n-murray/todo-fullstack-react" target="_blank"><b>JavaScript, TypeScript<b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/ts-codewars-katas" target="_blank"><b>JavaScript, TypeScript<b></a></td>
       <td><b>N/A</b></a></td>
       <td><b>A collection of katas that I have completed from https://www.codewars.com</b></a></td>
     </tr>
