@@ -42,7 +42,7 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
       <td><b>Dog Voting (w/ API)</b></a></td>
       <td><a href="https://github.com/b-e-n-murray/dog-breed-voting-frontend" target="_blank"><b>React, TypeScript<b></a></td>
       <td><a href="https://github.com/b-e-n-murray/dog-breed-voting-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
-      <td><b>Team full-stack app - users can post, edit and delete to-dos of their own input</b></a></td>
+      <td><b>Team full-stack app - users can vote on their favourite dog breeds based on randomly generated pictures and see an updated leaderboard</b></a></td>
     </tr>
   </tbody>
   <tbody align="center">
