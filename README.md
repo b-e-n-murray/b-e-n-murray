@@ -32,8 +32,8 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
    <tbody align="center">
     <tr>
       <td><b>Paste-Bin - "SnipSnap"</b></a></td>
-      <td><a href="[https://github.com/b-e-n-murray/pair-project-week1-frontend](https://github.com/maghfoor-a/pair-project-week1-frontend)" target="_blank"><b>React, TypeScript<b></a></td>
-      <td><a href="[https://github.com/b-e-n-murray/pair-project-week1-backend](https://github.com/maghfoor-a/pair-project-week1-backend)"><b>Express, Node.js, PostgreSQL</b></a></td>
+      <td><a href="https://github.com/maghfoor-a/pair-project-week1-frontend" target="_blank"><b>React, TypeScript<b></a></td>
+      <td><a href="https://github.com/maghfoor-a/pair-project-week1-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
       <td><b>Team full-stack app with a range of posting/commenting functionality</b></a></td>
     </tr>
   </tbody>
