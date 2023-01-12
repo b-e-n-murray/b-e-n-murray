@@ -29,6 +29,22 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
       <td><b>Full-stack app - users can post, edit and delete to-dos of their own input</b></a></td>
     </tr>
   </tbody>
+   <tbody align="center">
+    <tr>
+      <td><b>Paste-Bin - "SnipSnap"</b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/pair-project-week1-frontend" target="_blank"><b>React, TypeScript<b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/pair-project-week1-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
+      <td><b>Full-stack app - users can post, edit and delete to-dos of their own input</b></a></td>
+    </tr>
+  </tbody>
+   <tbody align="center">
+    <tr>
+      <td><b>Dog Voting (w/ API)</b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/dog-breed-voting-frontend" target="_blank"><b>React, TypeScript<b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/dog-breed-voting-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
+      <td><b>Full-stack app - users can post, edit and delete to-dos of their own input</b></a></td>
+    </tr>
+  </tbody>
   <tbody align="center">
     <tr>
       <td><b>Codewars Katas</b></a></td>
