@@ -29,6 +29,14 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
       <td><b>Team full-stack app with a range of posting/commenting functionality</b></a></td>
     </tr>
   </tbody>
+  <tbody align="center">
+    <tr>
+      <td><b>Texas Hold'em</b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/texas-holdem-kata" target="_blank"><b>TypeScript, Jest<b></a></td>
+      <td><b>N/A</b></a></td>
+      <td><b>Algorithm for analysing poker hands (kata from https://www.codewars.com/kata/524c74f855025e2495000262/train/javascript</b></a></td>
+    </tr>
+  </tbody>
    <tbody align="center">
     <tr>
       <td><b>Dog Voting (w/ API)</b></a></td>
