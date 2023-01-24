@@ -21,14 +21,6 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
       <td><b>Full-stack app that allows users to generate a workout from a database based on a number of inputs</b></a></td>
     </tr>
   </tbody>
-    <tbody align="center">
-    <tr>
-      <td><b>To-Do App</b></a></td>
-      <td><a href="https://github.com/b-e-n-murray/todo-fullstack-react" target="_blank"><b>React, TypeScript<b></a></td>
-      <td><a href="https://github.com/b-e-n-murray/to-do-fullstack-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
-      <td><b>Full-stack app - users can post, edit and delete to-dos of their own input</b></a></td>
-    </tr>
-  </tbody>
    <tbody align="center">
     <tr>
       <td><b>Paste-Bin - "SnipSnap"</b></a></td>
