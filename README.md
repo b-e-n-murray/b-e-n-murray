@@ -21,6 +21,15 @@ Hi, I'm Ben, a Junior full-stack dev. You can find here an overview of my profil
       <td><b>Full-stack app that allows users to generate a workout from a database based on a number of inputs</b></a></td>
     </tr>
   </tbody>
+  <tbody>
+   <tbody align="center">
+    <tr>
+      <td><b>LBM Banking</b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/lbm-banking-sql-demo"><b>React, TypeScript<b></a></td>
+      <td><a href="https://github.com/b-e-n-murray/lbm-banking-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
+      <td><b>A fake banking web application I developed to deliver a presentation on SQL Injection attacks</b></a></td>
+    </tr>
+  </tbody>
    <tbody align="center">
     <tr>
       <td><b>Paste-Bin - "SnipSnap"</b></a></td>
